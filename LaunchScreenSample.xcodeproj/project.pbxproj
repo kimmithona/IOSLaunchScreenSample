@@ -14,6 +14,7 @@
 		E180ABE61EFEBAF100FCA618 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E180ABE41EFEBAF100FCA618 /* LaunchScreen.storyboard */; };
 		E180ABF11EFEBAF200FCA618 /* LaunchScreenSampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E180ABF01EFEBAF200FCA618 /* LaunchScreenSampleTests.swift */; };
 		E180ABFC1EFEBAF200FCA618 /* LaunchScreenSampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E180ABFB1EFEBAF200FCA618 /* LaunchScreenSampleUITests.swift */; };
+		E180AC0A1EFEBB6700FCA618 /* download.png in Resources */ = {isa = PBXBuildFile; fileRef = E180AC091EFEBB6700FCA618 /* download.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		E180ABF71EFEBAF200FCA618 /* LaunchScreenSampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LaunchScreenSampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E180ABFB1EFEBAF200FCA618 /* LaunchScreenSampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LaunchScreenSampleUITests.swift; sourceTree = "<group>"; };
 		E180ABFD1EFEBAF200FCA618 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E180AC091EFEBB6700FCA618 /* download.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = download.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				E180ABDB1EFEBAF100FCA618 /* AppDelegate.swift */,
 				E180ABDD1EFEBAF100FCA618 /* ViewController.swift */,
+				E180AC091EFEBB6700FCA618 /* download.png */,
 				E180ABDF1EFEBAF100FCA618 /* Main.storyboard */,
 				E180ABE21EFEBAF100FCA618 /* Assets.xcassets */,
 				E180ABE41EFEBAF100FCA618 /* LaunchScreen.storyboard */,
@@ -235,6 +238,7 @@
 				E180ABE61EFEBAF100FCA618 /* LaunchScreen.storyboard in Resources */,
 				E180ABE31EFEBAF100FCA618 /* Assets.xcassets in Resources */,
 				E180ABE11EFEBAF100FCA618 /* Main.storyboard in Resources */,
+				E180AC0A1EFEBB6700FCA618 /* download.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
